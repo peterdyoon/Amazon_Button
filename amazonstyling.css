@@ -1,0 +1,90 @@
+
+body{
+    font-family:arial;
+}
+section{
+}
+footer{
+    text-align:center;
+}
+.center{
+    margin:0 auto;
+    width:320px;
+}
+.signinbutton{
+    background-color:#F1BF4E;
+    width:100%;
+    height:30px;
+    border-radius:2px;
+    background:linear-gradient(#FFE3AA, #F1C758);
+    border-style:solid;
+    border-color:#805C15;
+    font-size:.8em;
+}
+.amazonbutton{
+    border-radius:2px;
+    border-width:.5px;
+    width:100%;
+    height:30px;
+    border-color:darkgray;
+    background:linear-gradient(#F7F8FA, #EDEEF2);
+    border-style:solid;
+    font-size:1em;
+}
+.forminput{
+    width:100%;
+    height:1.75em;
+    margin:5px 0px 0px 0px;
+}
+img{
+    margin: 0 auto;
+    display:block;
+}
+fieldset {
+    border-color:lightgray;
+    border-style:solid;
+    border-radius:2px;
+    border-width:.5px;
+    padding: 0px 30px 20px 30px;
+}
+form fieldset{
+    border-color: lightgray white white white;
+    border-style:solid;
+    font-size:.75em;
+    padding:0px;
+}
+label {
+    font-size:.75em;
+}
+input{
+    display:block;
+    border-radius:2px;
+    border-width:.5px;
+    border-style:solid;
+    border-color:darkgray;
+}
+input[type="checkbox"]{
+    display:inline;
+}
+legend{
+    text-align:center;
+    color: darkgray;
+}
+a{
+    text-decoration:none;
+    color:cornflowerblue;
+    font-size:.7em;
+}
+div{
+    border-color:lightgray;;
+    border-style:solid none none none;
+    background:linear-gradient(to right,#fff,rgba(255,255,255,0),#fff);
+    background-color:transparent;
+    
+}
+footer{
+    font-size:.6em;
+}
+footer a{
+    font-size:1em;
+}
