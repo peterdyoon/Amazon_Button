@@ -9,7 +9,7 @@ footer{
 }
 .center{
     margin:0 auto;
-    width:320px;
+    width:350px;
 }
 .signinbutton{
     background-color:#F1BF4E;
@@ -39,6 +39,7 @@ footer{
 img{
     margin: 0 auto;
     display:block;
+    width:33%;
 }
 fieldset {
     border-color:lightgray;
@@ -74,13 +75,6 @@ a{
     text-decoration:none;
     color:cornflowerblue;
     font-size:.7em;
-}
-div{
-    border-color:lightgray;;
-    border-style:solid none none none;
-    background:linear-gradient(to right,#fff,rgba(255,255,255,0),#fff);
-    background-color:transparent;
-    
 }
 footer{
     font-size:.6em;
