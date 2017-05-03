@@ -36,6 +36,9 @@ footer{
     height:1.75em;
     margin:5px 0px 0px 0px;
 }
+.forminput:focus{
+    box-shadow: 0 0 4px 1px #F1C758;
+}
 img{
     margin: 0 auto;
     display:block;
