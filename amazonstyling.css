@@ -1,87 +1,101 @@
+body {
+    font-family: arial;
+}
 
-body{
-    font-family:arial;
+footer {
+    text-align: center;
 }
-section{
-}
-footer{
-    text-align:center;
-}
-.center{
-    margin:0 auto;
-    width:350px;
-}
-.signinbutton{
-    background-color:#F1BF4E;
-    width:100%;
-    height:30px;
-    border-radius:2px;
-    background:linear-gradient(#FFE3AA, #F1C758);
-    border-style:solid;
-    border-color:#805C15;
-    font-size:.8em;
-}
-.amazonbutton{
-    border-radius:2px;
-    border-width:.5px;
-    width:100%;
-    height:30px;
-    border-color:darkgray;
-    background:linear-gradient(#F7F8FA, #EDEEF2);
-    border-style:solid;
-    font-size:1em;
-}
-.forminput{
-    width:100%;
-    height:1.75em;
-    margin:5px 0px 0px 0px;
-}
-.forminput:focus{
-    box-shadow: 0 0 4px 1px #F1C758;
-}
-img{
+
+.center {
     margin: 0 auto;
-    display:block;
-    width:33%;
+    width: 350px;
 }
+
+.signinbutton {
+    background-color: #F1BF4E;
+    width: 100%;
+    height: 30px;
+    border-radius: 2px;
+    background: linear-gradient(#FFE3AA, #F1C758);
+    border-style: solid;
+    border-color: #805C15;
+    font-size: .8em;
+}
+
+.amazonbutton {
+    border-radius: 2px;
+    border-width: .5px;
+    width: 100%;
+    height: 30px;
+    border-color: darkgray;
+    background: linear-gradient(#F7F8FA, #EDEEF2);
+    border-style: solid;
+    font-size: 1em;
+}
+
+.forminput {
+    width: 100%;
+    height: 1.75em;
+    margin: 5px 0px 0px 0px;
+}
+
+.forminput:focus {
+    box-shadow: 0 0 4px 1px #F1C758;
+    outline-color: #F1C758;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 33%;
+}
+
 fieldset {
-    border-color:lightgray;
-    border-style:solid;
-    border-radius:2px;
-    border-width:.5px;
+    border-color: lightgray;
+    border-style: solid;
+    border-radius: 2px;
+    border-width: .5px;
     padding: 0px 30px 20px 30px;
 }
-form fieldset{
+
+form fieldset {
     border-color: lightgray white white white;
-    border-style:solid;
-    font-size:.75em;
-    padding:0px;
+    border-style: solid;
+    font-size: .75em;
+    padding: 0px;
 }
+
 label {
-    font-size:.75em;
+    font-size: .75em;
 }
-input{
-    display:block;
-    border-radius:2px;
-    border-width:.5px;
-    border-style:solid;
-    border-color:darkgray;
+
+input {
+    display: block;
+    border-radius: 2px;
+    border-width: .5px;
+    border-style: solid;
+    border-color: darkgray;
 }
-input[type="checkbox"]{
-    display:inline;
+
+input[type="checkbox"] {
+    display: inline;
 }
-legend{
-    text-align:center;
+
+legend {
+    text-align: center;
     color: darkgray;
 }
-a{
-    text-decoration:none;
-    color:cornflowerblue;
-    font-size:.7em;
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: .7em;
 }
-footer{
-    font-size:.6em;
+
+footer {
+    font-size: .6em;
 }
-footer a{
-    font-size:1em;
+
+footer a {
+    font-size: 1em;
 }
